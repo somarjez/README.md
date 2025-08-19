@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm JEZREEL RAMOS 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently a student working on **VARIOUS ACADEMIC PROJECTS**
+- 🌱 I'm currently learning **DATA ANALYSIS, SOFTWARE ENGINEERING, AND MACHINE LEARNING**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, React, Node.js**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 💬 Ask me about **JavaScript, Python, Dart, Flutter, Node.js, SQL, Firebase**
+- 📫 How to reach me: **jezreelramoz@gmail.com**
+- ⚡ Fun fact: **I love coding**
 
 ## 🛠️ Tech Stack
 
@@ -48,20 +48,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
