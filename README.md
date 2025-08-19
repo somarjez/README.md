@@ -50,27 +50,28 @@
 
 </div>
 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## 🎯 Current Focus
 
-```javascript
-const currentFocus = {
-    learning: ["Machine Learning", "Cloud Architecture", "GraphQL"],
-    building: ["Personal Portfolio", "Open Source Tools", "Mobile Apps"],
-    reading: ["Clean Code", "System Design", "AI/ML Research Papers"],
-    goals: ["Contribute to major OSS projects", "Build scalable systems", "Share knowledge"]
-};
+```python
+current_focus = {
+    "learning": ["Flutter Advanced Patterns", "Django REST Framework", "Cloud Deployment"],
+    "building": ["Mobile Apps with Flutter", "Web APIs with Django", "Cross-platform Solutions"],
+    "reading": ["Clean Architecture", "Flutter Documentation", "Python Best Practices"],
+    "goals": ["Master Mobile Development", "Build Full-stack Applications", "Contribute to Open Source"]
+}
 ```
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🤝 Connect with Me
@@ -93,7 +94,7 @@ const currentFocus = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=somarjez&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
