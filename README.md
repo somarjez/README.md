@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Architect+%F0%9F%93%B1;Data+Science+Explorer+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+%F0%9F%92%BB;Mobile+App+Architect+%F0%9F%93%B1;Developer+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 
 ```typescript
 const jezreel = {
-    role: "Full-Stack Developer & Student",
+    role: "Developer & Student",
     location: "Philippines 🇵🇭",
     currentMission: "Transforming ideas into elegant digital solutions",
     passions: ["Clean Code", "User Experience", "Problem Solving"],
@@ -45,13 +45,13 @@ const jezreel = {
 <img src="https://skillicons.dev/icons?i=cs,java,python,dart,js,typescript&theme=dark" />
 
 ### **Frontend Crafting**
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,react,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,react&theme=dark" />
 
 ### **Backend Engineering**
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,firebase,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,firebase,mysql&theme=dark" />
 
 ### **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma&theme=dark" />
 
 </div>
 
@@ -136,13 +136,9 @@ my_principles = {
 
 <div align="center">
 
-**2024 Goals Checklist**
-- [x] Master Flutter development fundamentals
-- [x] Complete Django REST API projects  
-- [ ] Deploy 3 full-stack applications
-- [ ] Contribute to 5 open-source projects
-- [ ] Build a machine learning portfolio
-- [ ] Launch personal tech blog
+**2025 Goals Checklist**
+- [] Build my Portfolio
+- [] Accomplish Academic Prohjects
 
 </div>
 
