@@ -1,82 +1,104 @@
-# Jezreel Ramos
-
-**Full Stack Developer** • **Software Engineering Student** • **Tech Enthusiast**
-
----
-
-## About
-
-I'm a passionate full-stack developer currently pursuing my studies in software engineering. I specialize in building scalable web and mobile applications using modern technologies. My focus is on creating efficient, user-centered solutions while continuously expanding my expertise in emerging technologies.
-
-**Currently exploring:** Data Analysis, Machine Learning, and Cloud Architecture  
-**Open to:** Collaborative projects and open-source contributions  
-**Contact:** jezreelramoz@gmail.com
-
----
-
-## Technical Expertise
-
-### **Languages & Frameworks**
-```
-Backend     │ Python, Django, C#, Java
-Frontend    │ JavaScript, HTML5, CSS3, Tailwind CSS
-Mobile      │ Flutter, Dart
-Database    │ SQL, Firebase
-```
-
-### **Development Tools**
-```
-Version Control  │ Git, GitHub
-Deployment       │ Docker, AWS, Vercel
-Development      │ RESTful APIs, Microservices
-```
-
----
-
-## Current Projects & Learning
-
-🔬 **Research Focus**
-- Advanced Flutter patterns and state management
-- Django REST Framework for scalable APIs
-- Cloud deployment strategies and DevOps practices
-
-🚀 **Building**
-- Cross-platform mobile applications
-- Full-stack web solutions with modern architectures
-- Data-driven applications with ML integration
-
-📚 **Reading**
-- Clean Architecture principles
-- Advanced Python design patterns
-- Mobile development best practices
-
----
-
-## Professional Goals
-
-- **Short-term:** Master mobile-first development and cloud deployment
-- **Medium-term:** Contribute to impactful open-source projects
-- **Long-term:** Lead development of innovative tech solutions
-
----
-
-## GitHub Analytics
+# Hi there, I'm JEZREEL RAMOS 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+- 🔭 I'm currently a student working on **VARIOUS ACADEMIC PROJECTS**
+- 🌱 I'm currently learning **DATA ANALYSIS, SOFTWARE ENGINEERING, AND MACHINE LEARNING**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, Python, Dart, Flutter, Node.js, SQL, Firebase**
+- 📫 How to reach me: **jezreelramoz@gmail.com**
+- ⚡ Fun fact: **I love coding**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<div align="center">
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+## 🎯 Current Focus
+
+```python
+current_focus = {
+    "learning": ["Flutter Advanced Patterns", "Django REST Framework", "Cloud Deployment"],
+    "building": ["Mobile Apps with Flutter", "Web APIs with Django", "Cross-platform Solutions"],
+    "reading": ["Clean Architecture", "Flutter Documentation", "Python Best Practices"],
+    "goals": ["Master Mobile Development", "Build Full-stack Applications", "Contribute to Open Source"]
+}
+```
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jezreelramoz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=somarjez&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <div align="center">
-  <i>Building the future, one commit at a time.</i>
+  
+**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+
 </div>
