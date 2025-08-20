@@ -57,15 +57,60 @@ const jezreel = {
 
 ---
 
-## 📊 **GitHub Analytics**
+# 🚀 **GitHub Analytics Dashboard**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+  
+  ## 📈 **Performance Overview**
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C792EA&text_color=FFFFFF&ring_color=FF6B9D"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=donut&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  
+  ## 🔥 **Contribution Streaks**
+  
+  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=C792EA&fire=FF9F1C&currStreakLabel=FF6B9D&dates=FFFFFF"/>
+  
+</div>
+
+<div align="center">
+  
+  ## ⭐ **Activity Graph**
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B9D&line=C792EA&point=FFFFFF&area=true&area_color=FF6B9D"/>
+  
+</div>
+
+<div align="center">
+  
+  ## 🏆 **GitHub Trophies**
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+  
+</div>
+
+<div align="center">
+  
+  ## 📊 **Detailed Analytics**
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=somarjez&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&layout=compact"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=donut-vertical&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💫 **Profile Views & Followers**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=somarjez&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Followers](https://img.shields.io/github/followers/somarjez?color=FF6B9D&style=for-the-badge&logo=github&label=FOLLOWERS)
+  ![Stars](https://img.shields.io/github/stars/somarjez?color=C792EA&style=for-the-badge&logo=github&label=STARS)
+  
 </div>
 
 ---
