@@ -84,6 +84,7 @@ const jezreel = {
   
 </div>
 
+<!-- 
 <div align="center">
   
   ## 📊 **Detailed Analytics**
@@ -92,6 +93,8 @@ const jezreel = {
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=donut-vertical&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF"/>
   
 </div>
+-->
+
 
 ---
 
