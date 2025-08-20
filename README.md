@@ -1,104 +1,167 @@
-# Hi there, I'm JEZREEL RAMOS 👋
+# Hey there! I'm Jezreel Ramos 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Mobile+App+Architect+%F0%9F%93%B1;Data+Science+Explorer+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing Animation" />
+</div>
 
-- 🔭 I'm currently a student working on **VARIOUS ACADEMIC PROJECTS**
-- 🌱 I'm currently learning **DATA ANALYSIS, SOFTWARE ENGINEERING, AND MACHINE LEARNING**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, Dart, Flutter, Node.js, SQL, Firebase**
-- 📫 How to reach me: **jezreelramoz@gmail.com**
-- ⚡ Fun fact: **I love coding**
+---
 
-## 🛠️ Tech Stack
+## 🎯 **Who Am I?**
+
+```typescript
+const jezreel = {
+    role: "Full-Stack Developer & Student",
+    location: "Philippines 🇵🇭",
+    currentMission: "Transforming ideas into elegant digital solutions",
+    passions: ["Clean Code", "User Experience", "Problem Solving"],
+    motto: "Code with purpose, build with passion",
+    
+    currentlyBuilding: {
+        academic: "Various research projects & assignments",
+        personal: "Cross-platform applications",
+        community: "Open source contributions"
+    },
+    
+    learningJourney: [
+        "Advanced Flutter Architecture Patterns",
+        "Machine Learning & AI Integration",
+        "Cloud-Native Development",
+        "Data Analysis & Visualization"
+    ]
+};
+```
+
+---
+
+## 🛠️ **My Arsenal**
 
 <div align="center">
 
-<div align="center">
+### **Core Languages**
+<img src="https://skillicons.dev/icons?i=cs,java,python,dart,js,typescript&theme=dark" />
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### **Frontend Crafting**
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,react,vue&theme=dark" />
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### **Backend Engineering**
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,firebase,mongodb,mysql&theme=dark" />
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,vscode,figma&theme=dark" />
 
 </div>
 
+---
 
-## 🏆 GitHub Trophies
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somarjez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somarjez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 </div>
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=somarjez&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+</div>
+
+---
+
+## 🏆 **Achievement Gallery**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
+</div>
+
+---
+
+## 📈 **Contribution Journey**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" />
+</div>
+
+---
+
+## 🎨 **Current Projects Spotlight**
+
+<div align="center">
+
+| Project Type | Focus Area | Tech Stack | Status |
+|:---:|:---:|:---:|:---:|
+| 🎓 **Academic** | Research & Analysis | Python, Jupyter, Pandas | `In Progress` |
+| 📱 **Mobile** | Cross-Platform Apps | Flutter, Dart, Firebase | `Active Development` |
+| 🌐 **Web** | Full-Stack Solutions | Django, React, PostgreSQL | `Planning Phase` |
+| 🤖 **ML/AI** | Data Science Projects | Python, TensorFlow, Scikit-learn | `Learning Phase` |
+
+</div>
+
+---
+
+## 💡 **Development Philosophy**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20code%20is%20written%20when%20you%20understand%20both%20the%20problem%20and%20the%20solution%20deeply.&author=Jezreel%20Ramos" />
+</div>
 
 ```python
-current_focus = {
-    "learning": ["Flutter Advanced Patterns", "Django REST Framework", "Cloud Deployment"],
-    "building": ["Mobile Apps with Flutter", "Web APIs with Django", "Cross-platform Solutions"],
-    "reading": ["Clean Architecture", "Flutter Documentation", "Python Best Practices"],
-    "goals": ["Master Mobile Development", "Build Full-stack Applications", "Contribute to Open Source"]
+my_principles = {
+    "code_quality": "Clean, readable, and maintainable code is non-negotiable",
+    "user_first": "Every line of code should serve the end user's needs",
+    "continuous_learning": "Technology evolves, and so should we",
+    "collaboration": "Great software is built by great teams",
+    "innovation": "Don't just follow trends, create solutions that matter"
 }
 ```
 
-## 📈 Contribution Graph
+---
+
+## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somarjez&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
-## 🤝 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jezreel-ramos)
+[![Email](https://img.shields.io/badge/Email-jezreelramoz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jezreelramoz@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://jezreel-portfolio.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/somarjez)
 
 </div>
 
-## 💡 Random Dev Quote
+---
+
+## 🎯 **What's Next?**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+**2024 Goals Checklist**
+- [x] Master Flutter development fundamentals
+- [x] Complete Django REST API projects  
+- [ ] Deploy 3 full-stack applications
+- [ ] Contribute to 5 open-source projects
+- [ ] Build a machine learning portfolio
+- [ ] Launch personal tech blog
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=somarjez&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
   
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+**🚀 Ready to build something extraordinary together? Let's code the future! 🚀**
 
+<img src="https://komarev.com/ghpvc/?username=somarjez&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/somarjez">Jezreel Ramos</a> - Crafted with 💙 and lots of ☕</sub>
 </div>
