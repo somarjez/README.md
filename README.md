@@ -86,14 +86,6 @@ const jezreel = {
 
 <div align="center">
   
-  ## 🏆 **GitHub Trophies**
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=somarjez&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-  
-</div>
-
-<div align="center">
-  
   ## 📊 **Detailed Analytics**
   
   <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=somarjez&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&layout=compact"/>
