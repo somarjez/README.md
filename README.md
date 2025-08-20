@@ -160,9 +160,9 @@ my_principles = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jezreel-ramos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/jezreel-ramos-49b029350)
 [![Email](https://img.shields.io/badge/Email-jezreelramoz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:jezreelramoz@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://jezreel-portfolio.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722)](https://somarjez.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/somarjez)
 
 </div>
